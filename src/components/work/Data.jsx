@@ -9,32 +9,32 @@ export const projectsData = [
     {
       id: 1,
       image: Work1,
-      title: "Web design",
-      category: "web",
+      title: "! Restaurant",
+      category: "app",
     },
     {
       id: 2,
       image: Work2,
-      title: "App movil",
-      category: "app",
+      title: "House Market",
+      category: "web",
     },
     {
       id: 3,
       image: Work3,
-      title: "Brand design",
-      category: "design",
+      title: "Broker site",
+      category: "web",
     },
     {
       id: 4,
       image: Work4,
-      title: "App movil",
+      title: "Hangman",
       category: "app",
     },
     {
       id: 5,
       image: Work5,
-      title: "Web design",
-      category: "web",
+      title: "Acealth",
+      category: "design",
     },
   ];
   
