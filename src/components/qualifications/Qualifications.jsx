@@ -99,9 +99,9 @@ function Qualifications() {
             <div className="qualification__data">
              <div>
                 <h3 className="qualification__title">FrontEnd Development</h3>
-                <span className="qualification__subtitle">Traversy Media</span>
+                <span className="qualification__subtitle">Savage Block Tech</span>
                 <div className="qualification__calender">
-                 <i className="uil uil-calender-alt"></i> 2020 -2022
+                 <i className="uil uil-calender-alt"></i> 2022-2023
                 </div>
                </div>
                <div>
@@ -118,10 +118,10 @@ function Qualifications() {
                 <span className="qualification__line"></span>
                </div>
              <div>
-                <h3 className="qualification__title">Ux Designer</h3>
-                <span className="qualification__subtitle">Daniel Walter Scott</span>
+                <h3 className="qualification__title">Ui ux Designer</h3>
+                <span className="qualification__subtitle">Acealth</span>
                 <div className="qualification__calender">
-                 <i className="uil uil-calender-alt"></i>  2021-2022
+                 <i className="uil uil-calender-alt"></i>  2022-present
                 </div>
                </div>
               
@@ -129,10 +129,10 @@ function Qualifications() {
 
             <div className="qualification__data">
              <div>
-                <h3 className="qualification__title">MERN Stack</h3>
-                <span className="qualification__subtitle">ZinoTrust Academy Academy</span>
+                <h3 className="qualification__title">FullStack Developer</h3>
+                <span className="qualification__subtitle">Acealth</span>
                 <div className="qualification__calender">
-                 <i className="uil uil-calender-alt"></i> 2021 -2022
+                 <i className="uil uil-calender-alt"></i> 2022 - present
                 </div>
                </div>
                <div>
