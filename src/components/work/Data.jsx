@@ -17,16 +17,16 @@ export const projectsData = [
     {
       id: 2,
       image: Work2,
-      title: "House Market",
+      title: "House Market App",
       category: "web",
-      link: " https://house-market-project-six.vercel.app/",
-      github:"https://github.com/boymeetsblockchain/House-Market-Project"
+      link: "https://house-market-app-eight.vercel.app/",
+      github:"https://github.com/boymeetsblockchain/House-Market-App.git"
     },
     {
       id: 3,
       image: Work3,
       title: "Broker site",
-      category: "web",
+      category: "design",
       link: "https://broker-site.vercel.app/",
       github:"https://github.com/boymeetsblockchain/Broker-site"
     },
@@ -41,10 +41,10 @@ export const projectsData = [
     {
       id: 5,
       image: Work5,
-      title: "Acealth",
-      category: "design",
-      link: "https://acealth.netlify.app/",
-      github:"https://github.com/boymeetsblockchain/medical-website"
+      title: "Inventory App",
+      category: "web",
+      link: "https://p-invent.vercel.app/",
+      github:"https://github.com/boymeetsblockchain/P-invent-Frontend/tree/master"
     },
   ];
   
