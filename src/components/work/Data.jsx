@@ -3,7 +3,7 @@ import Work2 from "../../assets/work2.png"
 import Work3 from "../../assets/work3.png"
 import Work4 from "../../assets/work4.png"
 import Work5 from "../../assets/work5.png"
-
+import Work6 from "../../assets/work6.png"
 
 export const projectsData = [
     {
@@ -45,6 +45,14 @@ export const projectsData = [
       category: "web",
       link: "https://p-invent.vercel.app/",
       github:"https://github.com/boymeetsblockchain/P-invent-Frontend/tree/master"
+    },
+    {
+      id: 5,
+      image: Work6,
+      title: "MPI UNLIMITED",
+      category: "web",
+      link: "https://mpi-two.vercel.app/",
+      github:"https://github.com/boymeetsblockchain/mpi/tree/main"
     },
   ];
   
