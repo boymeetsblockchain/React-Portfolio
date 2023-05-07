@@ -59,7 +59,7 @@ export const projectsData = [
       title: "Hoobank",
       category: "design",
       link: "https://mpi-two.vercel.app/",
-      github:"https://github.com/boymeetsblockchain/mpi/tree/main"
+      github:"https://github.com/boymeetsblockchain/hoobank"
     }
   ];
   
