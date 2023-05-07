@@ -4,7 +4,7 @@ import Work3 from "../../assets/work3.png"
 import Work4 from "../../assets/work4.png"
 import Work5 from "../../assets/work5.png"
 import Work6 from "../../assets/work6.png"
-
+import Work7 from "../../assets/work7.png"
 export const projectsData = [
     {
       id: 1,
@@ -47,13 +47,20 @@ export const projectsData = [
       github:"https://github.com/boymeetsblockchain/P-invent-Frontend/tree/master"
     },
     {
-      id: 5,
+      id: 6,
       image: Work6,
       title: "MPI UNLIMITED",
       category: "web",
       link: "https://mpi-two.vercel.app/",
       github:"https://github.com/boymeetsblockchain/mpi/tree/main"
-    },
+    },{
+      id: 7,
+      image: Work7,
+      title: "Hoobank",
+      category: "design",
+      link: "https://mpi-two.vercel.app/",
+      github:"https://github.com/boymeetsblockchain/mpi/tree/main"
+    }
   ];
   
   
