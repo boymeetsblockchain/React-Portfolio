@@ -47,7 +47,6 @@
 .home__description{
     max-width: 500px;
     margin-bottom: var(--mb-3);
-    font-size: 20px;
 }
 .home__img{
     background: url(../../assets/me2.jpg);
