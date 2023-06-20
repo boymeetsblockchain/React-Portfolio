@@ -56,7 +56,7 @@ function Data() {
         </h1>
         <h3 className='home__subtitle'>Fullstack Developer</h3>
         <p className="home__description">
-        I'm a full-stack developer proficient in front-end and back-end technologies.
+        I am a proficient full-stack developer with expertise in the MERN (MongoDB, Express.js, React, Node.js) stack. On the front-end, I excel in using HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS to create visually appealing and interactive web interfaces. I have a strong grasp of UI/UX design principles and can leverage these technologies to expedite development. On the back-end, I am skilled in server-side programming with Node.js and Express.js, and database management with MongoDB. With the MERN stack, I can build end-to-end web applications that are efficient, scalable, and provide seamless user experiences.
         </p>
         <a href="#contact" className='button button--flex'>
             say Hello
