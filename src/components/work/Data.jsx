@@ -33,10 +33,10 @@ export const projectsData = [
     {
       id: 4,
       image: Work4,
-      title: "Hangman",
+      title: "ChillFix",
       category: "app",
-      link: "https://hangmanvaniilajs.netlify.app/",
-      github:"https://github.com/boymeetsblockchain/HangMan"
+      link: "https://movies-app-theta-blue.vercel.app/",
+      github:"https://github.com/boymeetsblockchain/movies-app"
     },
     {
       id: 5,
@@ -49,10 +49,10 @@ export const projectsData = [
     {
       id: 6,
       image: Work6,
-      title: "MPI UNLIMITED",
+      title: "Chat Room",
       category: "web",
-      link: "https://mpi-two.vercel.app/",
-      github:"https://github.com/boymeetsblockchain/mpi/tree/main"
+      link: "https://chat-room-psi-nine.vercel.app/",
+      github:"https://github.com/boymeetsblockchain/chat-room"
     },{
       id: 7,
       image: Work7,
