@@ -5,6 +5,7 @@ import Work4 from "../../assets/work4.png"
 import Work5 from "../../assets/work5.png"
 import Work6 from "../../assets/work6.png"
 import Work7 from "../../assets/work7.png"
+import Work8 from "../../assets/work8.png"
 export const projectsData = [
     {
       id: 1,
@@ -60,6 +61,14 @@ export const projectsData = [
       category: "design",
       link: "https://mpi-two.vercel.app/",
       github:"https://github.com/boymeetsblockchain/hoobank"
+    },
+    {
+      id:8,
+      image:Work8,
+      title:"Support Desk",
+      category:"app",
+      link:"https://support-desk-awzc.onrender.com/",
+      github:"https://github.com/boymeetsblockchain/support-desk.git"
     }
   ];
   
